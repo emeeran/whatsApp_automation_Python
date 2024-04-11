@@ -4,6 +4,20 @@ from selenium import webdriver
 
 # Function to read contacts from a file
 def read_contacts(filename):
+    """
+    Read contacts from a file and return them as a list.
+
+    Args:
+        filename (str): The path to the file containing contacts.
+
+    Returns:
+        list: A list of contacts read from the file.
+
+    Raises:
+        FileNotFoundError: If the specified file is not found.
+    """
+
+def read_contacts(filename):
     with open(filename, 'r') as file:
         contacts = [line.strip() for line in file]
     return contacts
