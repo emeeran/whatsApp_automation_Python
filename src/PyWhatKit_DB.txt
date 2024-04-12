@@ -1,0 +1,92 @@
+Date: 12/4/2024
+Time: 19:32
+Phone Number: +919498068985
+Image: D:\Transit\Tarika.jpg
+Caption: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 12/4/2024
+Time: 19:40
+Phone Number: +919498068985
+Image: D:\Transit\Tarika.jpg
+Caption: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 12/4/2024
+Time: 19:41
+Phone Number: +917598287415
+Image: D:\Transit\Tarika.jpg
+Caption: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 12/4/2024
+Time: 19:41
+Phone Number: +918056248064
+Image: D:\Transit\Tarika.jpg
+Caption: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 12/4/2024
+Time: 19:45
+Phone Number: +919498068985
+Image: D:\Transit\Tarika.jpg
+Caption: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 12/4/2024
+Time: 19:45
+Phone Number: +917598287415
+Image: D:\Transit\Tarika.jpg
+Caption: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 12/4/2024
+Time: 19:46
+Phone Number: +918056248064
+Image: D:\Transit\Tarika.jpg
+Caption: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 12/4/2024
+Time: 19:55
+Phone Number: +919498068985
+Message: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 12/4/2024
+Time: 19:55
+Phone Number: +917598287415
+Message: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 12/4/2024
+Time: 19:56
+Phone Number: +918056248064
+Message: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 12/4/2024
+Time: 20:1
+Phone Number: +919498068985
+Message: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 12/4/2024
+Time: 20:1
+Phone Number: +917598287415
+Message: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 12/4/2024
+Time: 20:2
+Phone Number: +918056248064
+Message: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 12/4/2024
+Time: 20:10
+Phone Number: +919498068985
+Message: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 12/4/2024
+Time: 20:22
+Phone Number: +919498068985
+Message: Hello, this is an automated scheduled message testing the WhatsApp automation.
+--------------------
+Date: 12/4/2024
+Time: 20:24
+Phone Number: +917598287415
+Message: Hello, this is an automated scheduled message testing the WhatsApp automation.
+--------------------
+Date: 12/4/2024
+Time: 20:25
+Phone Number: +918056248064
+Message: Hello, this is an automated scheduled message testing the WhatsApp automation.
+--------------------

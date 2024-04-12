@@ -136,7 +136,7 @@ venv.bak/
 articles/
 data/
 scrapped/
-
+docs/
 # Spyder project settings
 .spyderproject
 .spyproject
