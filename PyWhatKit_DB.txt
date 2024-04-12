@@ -94,3 +94,8 @@ Phone Number: +917598287415
 Image: D:\Transit\EM.jpg
 Caption: Hello, This is an automated message testing the WhatsApp automation
 --------------------
+Date: 12/4/2024
+Time: 23:40
+Group ID: AB123CDEFGHijklmn
+Message: Hey All!
+--------------------
