@@ -8,5 +8,5 @@ def play_youtube_video(video_name):
     pywhatkit.playonyt(video_name)
     print("Done")
 
-
-play_youtube_video("The Truth About Learning Python in 2024")
+video_name = input("Enter the name of the video: ")
+play_youtube_video(video_name)
