@@ -1,30 +1,39 @@
-**Project Name:** Dummy Project
+Project Name: WhatsApp Automation.
 
-**Description.:**
-This is a dummy project created for testing and demonstration purposes. It does not contain any functional code or meaningful content.
+Description: 
 
-**Usage:**
-This project. is intended to be used as a placeholder or template for actual projects. It can be copied and modified to suit the needs of your project.
+Automating the process of sending WhatsApp messages to multiple people not in your contact list can simplify what is otherwise a tedious task. This project is designed to facilitate communication and save time for those who often send messages to non-contacts on WhatsApp. Simply input the mobile numbers into the contacts.txt file and execute the necessary script to send messages, with the option to schedule them as well.
 
-**Features:**
+For these scripts to function, you must have a WhatsApp account and be logged into your browser, as this utilizes WhatsApp Web.
 
-* Placeholder for code and documentation
-* Empty code files
-* Basic project structure
+Features:
 
-**Installation:**
+-Sending text messages
 
-1. Clone the repository: `git clone https.://github.com/username/dummy-project.git`
-2. Navigate to the project directory: `cd dummy-project`
+-Sending text messages with pictures
 
-**Contributing:**
+-Sending messages to groups
 
-This project is not intended for contributions. However, you are welcome to fork the repository and create your own project based on it.
+-Can schedule messages to be sent at a specific date and time.
 
-**License:**
+Installation:
+
+Clone the repository: `https://github.com/emeeran/whatsApp_automation_Python.git`
+
+Navigate to the project directory and activate the virtual environment.
+
+`Pip install pywhatkit`
+
+`Pip install pywin32`
+
+Contributing:
+
+This project is not intended for contributions. However, you are welcome to fork the repository and create your project based on it.
+
+License:
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-**Contact:**
+Contact:
 
-For any questions or feedback, please contact the project maintainers at [email protected].
+For any questions or feedback, please contact the project maintainers at emeeranjp@gmailcom.

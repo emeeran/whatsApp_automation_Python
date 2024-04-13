@@ -14,7 +14,7 @@ def send_messages_to_contacts(contacts, message, image_path):
 
 
 contacts = read_contacts("contacts.txt")
-message = "Hello, this is an automated message testing the WhatsApp automation."
+message = "Hello, this is an automated message testing the WhatsApp automation-2."
 image_path = input("Please enter the path to the image: ").strip('"')
 
 send_messages_to_contacts(contacts, message, image_path)
