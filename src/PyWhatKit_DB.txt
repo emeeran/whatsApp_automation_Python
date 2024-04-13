@@ -90,3 +90,89 @@ Time: 20:25
 Phone Number: +918056248064
 Message: Hello, this is an automated scheduled message testing the WhatsApp automation.
 --------------------
+Date: 13/4/2024
+Time: 14:31
+Phone Number: +919498068985
+Image: D:\Transit\Tarika.jpg
+Caption: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 13/4/2024
+Time: 14:31
+Phone Number: +917598287415
+Image: D:\Transit\Tarika.jpg
+Caption: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 13/4/2024
+Time: 14:32
+Phone Number: +918056248064
+Image: D:\Transit\Tarika.jpg
+Caption: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 13/4/2024
+Time: 14:46
+Phone Number: +919498068985
+Message: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 13/4/2024
+Time: 14:47
+Phone Number: +917598287415
+Message: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 13/4/2024
+Time: 14:47
+Phone Number: +918056248064
+Message: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 13/4/2024
+Time: 14:54
+Phone Number: +919498068985
+Message: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 13/4/2024
+Time: 14:54
+Phone Number: +917598287415
+Message: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 13/4/2024
+Time: 14:55
+Phone Number: +918056248064
+Message: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 13/4/2024
+Time: 17:49
+Group ID: WA-trial
+Message: Hey All!
+--------------------
+Date: 13/4/2024
+Time: 17:52
+Group ID: WA-trial
+Message: Hey All! This is an automated message.
+--------------------
+Date: 13/4/2024
+Time: 18:2
+Group ID: WA-trial
+Message: Hey All! This is an automated message.
+--------------------
+Date: 13/4/2024
+Time: 18:5
+Group ID: WA-trial
+Message: Hey All! This is an automated message.
+--------------------
+Date: 13/4/2024
+Time: 18:43
+Phone Number: +country_code+91WA-trial
+Image: D:\Transit\EM.jpg
+Caption: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 13/4/2024
+Time: 18:46
+Phone Number: +country_code+91WA-trial
+Image: D:\Transit\EM.jpg
+Caption: Hello, this is an automated message testing the WhatsApp automation.
+--------------------
+Date: 13/4/2024
+Time: 18:50
+Phone Number: +country_code+91WA-trial
+Image: D:\Transit\EM.jpg
+Caption: Hello, this is an automated message testing the WhatsApp automation.
+--------------------

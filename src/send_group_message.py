@@ -1,14 +1,24 @@
 import pywhatkit
-from utils import *
-# Read the groups from the file
-with open("groups.txt", "r") as file:
-    groups = file.readlines()
+from selenium import webdriver
+import time
 
-# Send a WhatsApp Message to each group
-for group in groups:
-    group = group.strip()  # Remove any leading/trailing whitespace or newline characters
-    pywhatkit.sendwhatmsg_to_group_instantly(group, "Hey All!")
+def read_groups(filename):
+    return [line.strip() for line in open(filename, "r")]
 
+def send_whatsapp_message(group, image_path, message):
+    pywhatkit.sendwhats_image(f"+country_code{group}", image_path, message)
 
-# Send a WhatsApp Message to a Group instantly
-pywhatkit.sendwhatmsg_to_group_instantly("AB123CDEFGHijklmn", "Hey All!")
+def main():
+    groups = read_groups("groups.txt")
+    image_path = input("Enter the image path: ").strip('"')
+
+    driver = webdriver.Chrome()  # Ensure you have the Chrome WebDriver installed and in PATH
+    driver.get("https://web.whatsapp.com")
+
+    for group in groups:
+        send_whatsapp_message(group, image_path, "Hello, this is an automated message testing the WhatsApp automation.")
+        time.sleep(5)  # Wait for 5 seconds before closing the tab
+        driver.close()
+
+if __name__ == "__main__":
+    main()
